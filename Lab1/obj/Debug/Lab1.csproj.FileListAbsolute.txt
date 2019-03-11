@@ -1,0 +1,9 @@
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Labs\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Labs\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Labs\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Labs\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Labs\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Labs\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Labs\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Labs\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Labs\Lab1\Lab1\obj\Debug\Lab1.pdb
