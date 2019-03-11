@@ -1,0 +1,9 @@
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Practic\Practic\Practic\bin\Debug\Practic.exe.config
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Practic\Practic\Practic\bin\Debug\Practic.exe
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Practic\Practic\Practic\bin\Debug\Practic.pdb
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Practic\Practic\Practic\obj\Debug\Practic.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Practic\Practic\Practic\obj\Debug\Practic.Form1.resources
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Practic\Practic\Practic\obj\Debug\Practic.Properties.Resources.resources
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Practic\Practic\Practic\obj\Debug\Practic.csproj.GenerateResource.Cache
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Practic\Practic\Practic\obj\Debug\Practic.exe
+C:\Users\Andrei\Faculty\Second year\Semester 4\Sisteme de gestiune a bazelor de date\Practic\Practic\Practic\obj\Debug\Practic.pdb
